@@ -5,7 +5,6 @@ import './App.css';
 import Home from './pages/Home';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
-import {getFirestore} from 'firebase/firestore'
 import { BrowserRouter , Routes , Route , Link} from 'react-router-dom';
 
 
